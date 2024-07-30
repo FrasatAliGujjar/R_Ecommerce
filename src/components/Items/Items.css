@@ -1,0 +1,155 @@
+/* body {
+    margin: 0px;
+    padding: 0px;
+    background: url('');
+    background-position: fixed;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+} */
+
+/* =================================================  */
+.pop_top_heading {
+    color: #03346E;
+    text-align: center;
+}
+
+.main {
+    margin-top: 20px;
+    padding-bottom: 20px;
+    /* border: 2px solid red; */
+    border-radius: 10px;
+    height: fit-content;
+}
+
+.box_main {
+    margin-top: 10px;
+    padding-bottom: 10px;
+    /* border: 2px solid darkblue; */
+    border-radius: 10px;
+    height: fit-content;
+}
+
+.heading_div {
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    /* border: 2px solid darkgreen; */
+    border-radius: 10px;
+    height: 30px;
+    background-color: darkcyan;
+    text-align: center;
+}
+
+.box_inner {
+
+    /* border: 2px solid red; */
+    border-radius: 10px;
+    margin-top: 10px;
+    height: auto;
+    box-shadow: 4px 4px 5px gray;
+    /* background-color: rgb(231, 225, 225); */
+    /* background: #6EACDA; */
+    /* background: linear-gradient(90deg, #6EACDA, #e1ffea22 90%); */
+    background: #03346E;
+
+}
+
+.box_inner:hover {
+
+    box-shadow: 4px 4px 5px white;
+
+}
+
+.box_inner_heading {
+    margin-top: 10px;
+    border: 2px solid green;
+    border-radius: 10px;
+    height: 30px;
+    background-color: black;
+    text-align: center;
+}
+
+.box_inner_image {
+    /* border: 2px solid blue; */
+    border-radius: 10px;
+    height: 350px;
+    margin-top: 10px;
+    background-color: grey;
+}
+
+/* 
+.box_inner_image:hover {
+    box-shadow: 4px 4px 5px cyan;
+    height: 353px;
+} */
+
+.box_inner_left_btn {
+    /* border: 2px solid blue; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.box_inner_right_btn {
+    /* border: 2px solid blue; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Product_Details_box {
+    color: white;
+}
+
+/* ====================================================================== */
+.items-button {
+    max-width: 100px;
+    min-width: 100px;
+    border: 2px solid #03346E;
+    border-radius: 20px;
+    padding: 5px 20px;
+    text-align: center;
+    background-color: white;
+    color: #03346E;
+}
+
+.items-button:hover {
+    max-width: 100px;
+    min-width: 100px;
+    border: 2px solid white;
+    border-radius: 20px;
+    padding: 5px 20px;
+    text-align: center;
+    background-color: #6EACDA;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+/* =================================================  */
+@media only screen and (max-width: 1920px) {}
+
+@media only screen and (max-width: 1200px) {}
+
+@media only screen and (max-width: 992px) {
+    .items-button {
+        margin-top: 10px;
+    }
+}
+
+@media only screen and (max-width: 768px) {}
+
+@media only screen and (max-width: 535px) {}
+
+@media only screen and (max-width: 480px) {}
+
+@media only screen and (max-width: 412px) {}

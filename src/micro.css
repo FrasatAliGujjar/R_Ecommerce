@@ -1,0 +1,974 @@
+/* @font-face {
+    font-family: Bulletto;
+    src: url(fonts/Bulletto.ttf);
+}
+
+@font-face {
+    font-family: Regista;
+    src: url(fonts/Regista.ttf);
+}
+
+@font-face {
+    font-family: Regista_i;
+    src: url(fonts/Regista_i.ttf);
+}
+
+@font-face {
+    font-family: Rockybilly;
+    src: url(fonts/Rockybilly.ttf);
+}
+
+@font-face {
+    font-family: Alvi;
+    src: url(fonts/Alvi.ttf);
+} */
+
+/* =================================================  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ========================== Rounded BUTTON =============================  */
+
+.b-r-black {
+
+    width: 100px;
+    border: 2px solid white;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    /* box-shadow: 2px 2px 10px black; */
+
+}
+
+.b-r-black:hover {
+
+    width: 100px;
+    border: 2px solid white;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    box-shadow: 2px 2px 10px black;
+
+}
+
+/* ------------------------------------------------------  */
+.b-r-red {
+
+    width: 100px;
+    border: 2px solid white;
+    border-radius: 20px;
+    background-color: red;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    /* box-shadow: 2px 2px 10px black; */
+
+}
+
+.b-r-red:hover {
+
+    width: 100px;
+    border: 2px solid white;
+    border-radius: 20px;
+    background-color: red;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    box-shadow: 2px 2px 10px red;
+
+}
+
+/* ------------------------------------------------------  */
+.b-r-blue {
+
+    width: 100px;
+    border: 2px solid white;
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    /* box-shadow: 2px 2px 10px black; */
+
+}
+
+.b-r-blue:hover {
+
+    width: 100px;
+    border: 2px solid white;
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    box-shadow: 2px 2px 10px blue;
+
+}
+
+/* ------------------------------------------------------  */
+.b-r-green {
+
+    width: 100px;
+    border: 2px solid white;
+    border-radius: 20px;
+    background-color: green;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    /* box-shadow: 2px 2px 10px black; */
+
+}
+
+.b-r-green:hover {
+
+    width: 100px;
+    border: 2px solid white;
+    border-radius: 20px;
+    background-color: green;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    box-shadow: 2px 2px 10px green;
+
+}
+
+/* ------------------------------------------------------  */
+
+.b-r-gray {
+
+    width: 100px;
+    border: 2px solid white;
+    border-radius: 20px;
+    background-color: gray;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    /* box-shadow: 2px 2px 10px black; */
+
+}
+
+.b-r-gray:hover {
+
+    width: 100px;
+    border: 2px solid white;
+    border-radius: 20px;
+    background-color: gray;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    box-shadow: 2px 2px 10px gray;
+
+}
+
+/* ------------------------------------------------------  */
+
+
+.b-r-purple {
+
+    width: 100px;
+    border: 2px solid white;
+    border-radius: 20px;
+    background-color: purple;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    /* box-shadow: 2px 2px 10px black; */
+
+}
+
+.b-r-purple:hover {
+
+    width: 100px;
+    border: 2px solid white;
+    border-radius: 20px;
+    background-color: purple;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    box-shadow: 2px 2px 10px purple;
+
+}
+
+/* ------------------------------------------------------  */
+
+
+.b-r-white {
+
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: white;
+    color: black;
+    padding: 5px 20px;
+    text-align: center;
+    /* box-shadow: 2px 2px 10px black; */
+
+}
+
+.b-r-white:hover {
+
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: white;
+    color: black;
+    padding: 5px 20px;
+    text-align: center;
+    box-shadow: 2px 2px 10px white;
+
+}
+
+/* ------------------------------------------------------  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ========================== Sqaure BUTTON =============================  */
+
+.b-s-black {
+
+    width: 100px;
+    border: 2px solid white;
+    border-radius: 7px;
+    background-color: black;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    /* box-shadow: 2px 2px 10px black; */
+
+}
+
+.b-s-black:hover {
+
+    width: 100px;
+    border: 2px solid white;
+    border-radius: 7px;
+    background-color: black;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    box-shadow: 2px 2px 10px black;
+
+}
+
+/* ------------------------------------------------------  */
+.b-s-red {
+
+    width: 100px;
+    border: 2px solid white;
+    border-radius: 7px;
+    background-color: red;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    /* box-shadow: 2px 2px 10px black; */
+
+}
+
+.b-s-red:hover {
+
+    width: 100px;
+    border: 2px solid white;
+    border-radius: 7px;
+    background-color: red;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    box-shadow: 2px 2px 10px red;
+
+}
+
+/* ------------------------------------------------------  */
+.b-s-blue {
+
+    width: 100px;
+    border: 2px solid white;
+    border-radius: 7px;
+    background-color: blue;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    /* box-shadow: 2px 2px 10px black; */
+
+}
+
+.b-s-blue:hover {
+
+    width: 100px;
+    border: 2px solid white;
+    border-radius: 7px;
+    background-color: blue;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    box-shadow: 2px 2px 10px blue;
+
+}
+
+/* ------------------------------------------------------  */
+.b-s-green {
+
+    width: 100px;
+    border: 2px solid white;
+    border-radius: 7px;
+    background-color: green;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    /* box-shadow: 2px 2px 10px black; */
+
+}
+
+.b-s-green:hover {
+
+    width: 100px;
+    border: 2px solid white;
+    border-radius: 7px;
+    background-color: green;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    box-shadow: 2px 2px 10px green;
+
+}
+
+/* ------------------------------------------------------  */
+
+.b-s-gray {
+
+    width: 100px;
+    border: 2px solid white;
+    border-radius: 7px;
+    background-color: gray;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    /* box-shadow: 2px 2px 10px black; */
+
+}
+
+.b-s-gray:hover {
+
+    width: 100px;
+    border: 2px solid white;
+    border-radius: 7px;
+    background-color: gray;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    box-shadow: 2px 2px 10px gray;
+
+}
+
+/* ------------------------------------------------------  */
+
+
+.b-s-purple {
+
+    width: 100px;
+    border: 2px solid white;
+    border-radius: 7px;
+    background-color: purple;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    /* box-shadow: 2px 2px 10px black; */
+
+}
+
+.b-s-purple:hover {
+
+    width: 100px;
+    border: 2px solid white;
+    border-radius: 7px;
+    background-color: purple;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    box-shadow: 2px 2px 10px purple;
+
+}
+
+/* ------------------------------------------------------  */
+
+.b-s-white {
+
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 7px;
+    background-color: white;
+    color: black;
+    padding: 5px 20px;
+    text-align: center;
+    /* box-shadow: 2px 2px 10px black; */
+
+}
+
+.b-s-white:hover {
+
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 7px;
+    background-color: white;
+    color: black;
+    padding: 5px 20px;
+    text-align: center;
+    box-shadow: 2px 2px 10px white;
+
+}
+
+/* ------------------------------------------------------  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ========================== Input Fields =============================  */
+
+.in-white-w100 {
+    border: none;
+    border-radius: 4px;
+    background-color: white;
+    color: black;
+    width: 100%;
+    padding: 5px 20px;
+}
+
+.in-white-b-none-w100 {
+
+    border: 2px solid white;
+    border-radius: 4px;
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+    width: 100%;
+    padding: 5px 20px;
+
+}
+
+.in-white-bb-white-w100 {
+
+    border: none;
+    border-bottom: 2px solid white;
+    border-radius: 0px;
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+    width: 100%;
+    padding: 5px 20px;
+
+}
+
+
+.in-black-w100 {
+    border: none;
+    border-radius: 4px;
+    background-color: black;
+    color: white;
+    width: 100%;
+    padding: 5px 20px;
+}
+
+.in-black-bb-cyan-w100 {
+    border: none;
+    border-bottom: 2px solid cyan;
+    border-radius: 4px;
+    background-color: rgba(0, 0, 0, 1);
+    color: white;
+    width: 100%;
+    padding: 5px 20px;
+}
+
+.in-black-bb-yellow-w100 {
+    border: none;
+    border-bottom: 2px solid yellow;
+    border-radius: 4px;
+    background-color: rgba(0, 0, 0, 1);
+    color: white;
+    width: 100%;
+    padding: 5px 20px;
+}
+
+/* =====================================================================  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ========================== Borders =============================  */
+.b-white {
+    border: 2px solid white;
+}
+
+.b-black {
+    border: 2px solid black;
+}
+
+.b-blue {
+    border: 2px solid blue;
+}
+
+.b-red {
+    border: 2px solid red;
+}
+
+.b-magenta {
+    border: 2px solid magenta;
+}
+
+.b-green {
+    border: 2px solid green;
+}
+
+.b-cyan {
+    border: 2px solid cyan;
+}
+
+.b-yellow {
+    border: 2px solid yellow;
+}
+
+/* =====================================================================  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ========================== Borders Radius =============================  */
+.br-50per {
+    border-radius: 50%;
+}
+
+.br-2px {
+    border-radius: 2px;
+}
+
+.br-5px {
+    border-radius: 5px;
+}
+
+.br-7px {
+    border-radius: 7px;
+}
+
+.br-10px {
+    border-radius: 10px;
+}
+
+/* ----------------------------  */
+.br-12px {
+    border-radius: 12px;
+}
+
+.br-15px {
+    border-radius: 15px;
+}
+
+.br-17px {
+    border-radius: 17px;
+}
+
+.br-20px {
+    border-radius: 20px;
+}
+
+/* ----------------------------  */
+.br-22px {
+    border-radius: 22px;
+}
+
+.br-25px {
+    border-radius: 25px;
+}
+
+.br-27px {
+    border-radius: 27px;
+}
+
+.br-30px {
+    border-radius: 30px;
+}
+
+/* ----------------------------  */
+
+
+
+
+
+
+/* =====================================================================  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ========================== Display =============================  */
+.df {
+    display: flex;
+}
+
+.dn {
+    display: none;
+}
+
+/* --------------------------------  */
+.jc-s {
+    justify-content: start;
+}
+
+.jc-fs {
+    justify-content: flex-start;
+}
+
+.jc-e {
+    justify-content: end;
+}
+
+.jc-fe {
+    justify-content: flex-end;
+}
+
+.jc-sb {
+    justify-content: space-between;
+}
+
+.jc-sa {
+    justify-content: space-around;
+}
+
+.jc-c {
+    justify-content: center;
+}
+
+/* --------------------------------  */
+.ai-s {
+    align-items: start;
+}
+
+.ai-fs {
+    align-items: flex-start;
+}
+
+.ai-e {
+    align-items: end;
+}
+
+.ai-fe {
+    align-items: flex-end;
+}
+
+.ai-c {
+    align-items: center;
+}
+
+.ai-bl {
+    align-items: baseline;
+}
+
+/* --------------------------------  */
+.ac-s {
+    align-content: start;
+}
+
+.ac-e {
+    align-content: end;
+}
+
+.ac-e {
+    align-content: center;
+}
+
+.ac-fs {
+    align-content: flex-start;
+}
+
+.ac-fe {
+    align-content: flex-end;
+}
+
+.ac-sa {
+    align-content: space-around;
+}
+
+.ac-sb {
+    align-content: space-between;
+}
+
+
+
+
+
+/* =====================================================================  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* =================================================  */
+@media only screen and (max-width: 1920px) {}
+
+@media only screen and (max-width: 1200px) {}
+
+@media only screen and (max-width: 992px) {}
+
+@media only screen and (max-width: 768px) {}
+
+@media only screen and (max-width: 535px) {}
+
+@media only screen and (max-width: 480px) {}
+
+@media only screen and (max-width: 412px) {}

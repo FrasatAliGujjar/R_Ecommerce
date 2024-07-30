@@ -1,0 +1,83 @@
+.pd-main {
+    /* margin-top: 100px; */
+    /* border: 2px solid black; */
+    width: 100%;
+    height: fit-content;
+    padding: 10px;
+    background: linear-gradient(180deg, #6EACDA, #e1ffea22 60%);
+}
+
+.breadcrums{
+    color: white;
+    font-weight: 600;
+}
+
+/* ========================================= */
+.min-pic-box {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.min-pics {
+    width: 100px;
+    height: 100px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.min-pics:hover {
+    box-shadow: 2px 2px 5px darkgray;
+}
+
+/* ========================================= */
+.max-pic-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.max-pic {
+    width: 400px;
+    height: 400px;
+}
+
+
+.max-pic:hover {
+    box-shadow: 2px 2px 5px darkgray;
+}
+
+/* ========================================= */
+.details-pic-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.details_main_box {
+    width: 400px;
+    height: 400px;
+}
+
+/* ========================================= */
+
+
+
+/* =================================================  */
+@media only screen and (max-width: 1920px) {}
+
+@media only screen and (max-width: 1200px) {}
+
+@media only screen and (max-width: 992px) {
+    .min-pic-box {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 768px) {}
+
+@media only screen and (max-width: 535px) {}
+
+@media only screen and (max-width: 480px) {}
+
+@media only screen and (max-width: 412px) {}

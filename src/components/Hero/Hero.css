@@ -1,0 +1,86 @@
+.hero_main_row {
+    /* background: linear-gradient(180deg, #fde1ff, #e1ffea22 60%); */
+    background: linear-gradient(180deg, #6EACDA, #e1ffea22 60%);
+}
+
+.left {
+    /* border: 2px solid #03346E; */
+    width: 400px;
+    height: 400px;
+    color: #03346E;
+    flex-direction: column;
+}
+
+.right {
+    /* border: 2px solid #03346E; */
+    width: 400px;
+    height: 400px;
+    color: #03346E;
+    flex-direction: column;
+}
+
+.think_pic {
+    width: 300px;
+    filter: drop-shadow(2px 2px 4px #03346E);
+}
+
+/* ====================================================================== */
+.pro-button {
+    width: 150px;
+    border: 2px solid #03346E;
+    border-radius: 5px;
+    padding: 5px 20px;
+    text-align: center;
+    background-color: #03346E;
+    color: white;
+}
+
+.pro-button:hover {
+    width: 150px;
+    border: 2px solid #03346E;
+    border-radius: 5px;
+    background-color: white;
+    color: #03346E;
+    padding: 5px 20px;
+    text-align: center;
+    box-shadow: 2px 2px 5px white;
+}
+
+
+
+
+/* =================================================  */
+@media only screen and (max-width: 1920px) {}
+
+@media only screen and (max-width: 1200px) {}
+
+@media only screen and (max-width: 1128px) {}
+
+@media only screen and (max-width: 992px) {
+    .left {
+        width: 400px;
+        height: 400px;
+        color: white;
+        flex-direction: column;
+    }
+
+    .right {
+        width: 400px;
+        height: 400px;
+        color: white;
+        flex-direction: column;
+    }
+
+    .think_pic {
+        width: 300px;
+
+    }
+}
+
+@media only screen and (max-width: 768px) {}
+
+@media only screen and (max-width: 535px) {}
+
+@media only screen and (max-width: 480px) {}
+
+@media only screen and (max-width: 412px) {}

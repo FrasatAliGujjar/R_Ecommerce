@@ -1,0 +1,221 @@
+/* body {
+    margin: 0px;
+    padding: 0px;
+    background: url('bg2.pn');
+    background-position: fixed;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+} */
+
+/* =================================================  */
+
+
+
+/* ========================   NAV BAR Start   =========================  */
+a {
+    text-decoration: none;
+}
+
+.nav_out_main {
+    /* border: 2px solid red; */
+    height: fit-content;
+
+}
+
+/* .nav_left_main {
+    border: 2px solid green;
+    height: 140px;
+    text-align: right;
+
+} */
+
+.nav_right_main {
+    /* border: 2px solid blue; */
+    height: fit-content;
+}
+
+/* ----------------------------- */
+.navbar-toggler-icon {
+    background-color: white;
+    border-radius: 4px;
+    /* ----------------- */
+    position: absolute;
+    right: 20px;
+    top: 15px;
+    /* ----------------- */
+    border: none;
+    box-shadow: none;
+    outline: none;
+}
+
+.logo {
+    height: 30px;
+    border-radius: 50%;
+    margin-right: 20px;
+    margin-top: -5px;
+}
+
+
+/* main nav bar out div  */
+.navbar {
+    /* border: 2px solid magenta; */
+    /* border-radius: 30px; */
+    height: fit-content;
+    margin-top: 0px;
+    /* background-color: red; */
+}
+
+.nav_bar_main_container {
+
+    /* border: 2px solid white; */
+    border-radius: 0px;
+    color: white;
+    background-color: #03346E;
+    height: fit-content;
+}
+
+.nav_bar_logo_bar {
+    margin-top: 0px;
+    margin-left: 2px;
+    /* border: 2px solid red; */
+    height: fit-content;
+}
+
+.nav_bar_title_bar {
+    margin-top: 15px;
+    margin-left: 10px;
+    /* border: 2px solid red; */
+    height: fit-content;
+}
+
+.list_main {
+    margin-top: 20px;
+    /* margin-left: 530px; */
+    /* border: 2px solid green; */
+    height: fit-content;
+    position: absolute;
+    right: 20px;
+}
+
+.nav-item {
+    height: fit-content;
+    /* border: 2px solid goldenrod; */
+    border-radius: 3px;
+}
+
+/* -------------------------------------  */
+.title {
+    color: white;
+    font-size: 30px;
+    /* font-family: 'Agdasima', sans-serif; */
+}
+
+.title:hover {
+    text-shadow: 2px 2px 5px white;
+    font-size: 30px;
+    /* font-family: 'Agdasima', sans-serif; */
+}
+
+.home-btn {
+    /* border: 2px solid white; */
+    /* border-radius: 20px; */
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+    padding: 0 1rem;
+    font-size: 1rem;
+    font-weight: 500;
+    /* width: 100px; */
+    /* text-align: center; */
+}
+
+.home-btn:hover {
+
+    /* border-bottom: 2px solid white; */
+    /* border-radius: 3px; */
+    text-shadow: 2px 2px 5px white;
+
+}
+
+.cart_counter {
+    margin-top: -38px;
+    margin-left: 50px;
+    height: 20px;
+    width: 20px;
+    text-align: center;
+    color: white;
+    background-color: red;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* ========================   NAV BAR END   =========================  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* =================================================  */
+@media only screen and (max-width: 1920px) {}
+
+@media only screen and (max-width: 1200px) {}
+
+@media only screen and (max-width: 992px) {
+
+    .title {
+        color: white;
+        font-size: 15px;
+    }
+
+    .title:hover {
+        text-shadow: 2px 2px 5px white;
+        font-size: 15px;
+    }
+
+    .list_main {
+        /* border-top: 2px solid white; */
+        text-align: center;
+        height: fit-content;
+        position: absolute;
+        margin-top: 0px;
+        left: 5px;
+        right: 5px;
+        background-color: #03346E;
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+    }
+
+    .nav_bar_main_container {
+
+        /* border: 2px solid white; */
+        border-radius: 0px;
+        color: white;
+        height: fit-content;
+    }
+
+    .cart_counter {
+        display: none;
+    }
+
+}
+
+@media only screen and (max-width: 768px) {}
+
+@media only screen and (max-width: 535px) {}
+
+@media only screen and (max-width: 480px) {}
+
+@media only screen and (max-width: 412px) {}
